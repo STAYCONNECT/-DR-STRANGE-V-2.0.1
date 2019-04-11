@@ -1,0 +1,13 @@
+{
+    "name": "DR彡STRANGE || V 2.0.1–bot",
+    "version": "1.0.0",
+    "description": "This is MANAGE LIFE BOT SERVER",
+    "main": "trial-bot.js",
+    "author": "STAYCONNECT",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+	"discord.js" : "11.2.1"
+	}
+}
